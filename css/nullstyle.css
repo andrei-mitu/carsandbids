@@ -1,0 +1,19 @@
+button {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    background-color: #4AD493;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+ {
+
+}
+
+a:hover{
+    color:  #4AD493;
+    transition: .3s;
+}

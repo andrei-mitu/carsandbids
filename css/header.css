@@ -1,0 +1,52 @@
+.header {
+    height: 80px;
+    min-height: 57px;
+    font-weight: 600;
+    align-items: center;
+    border-bottom: 1px solid #EBEBEB;
+}
+
+button.sign-up {
+    width: 122px;
+    height: 46px;
+    border-radius: 8px;
+}
+
+.nav {
+    height: 46px;
+    min-width: 500px;
+}
+
+.focus-page {
+    width: 102px;
+    height: 40px;
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: #4AD493;
+    border: 3px solid #4AD493;
+}
+
+.focus-page:hover {
+    background-color: inherit;
+    border: 3px solid #4AD493;
+}
+
+.search {
+    /*margin-right: 30px;*/
+}
+
+.input {
+    border: 0;
+    height: 36px;
+    width: 416px;
+    border-radius: 8px;
+    background-color: #EEEEF0;
+}
+
+.header-bg {
+    position: fixed;
+    background: #fff;
+    height: 95px;
+}

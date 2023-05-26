@@ -1,0 +1,31 @@
+@import url(header.css);
+@import url(footer.css);
+@import url(nullstyle.css);
+
+.carousel-item img {
+    border-radius: 8px;
+}
+
+.carousel-item .active img {
+    border-radius: 8px;
+}
+
+.page-element {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1440px;
+    justify-content: space-between;
+}
+
+.sign-up {
+    margin: 0 auto;
+}
+.btn:hover {
+    background: #4AD493;
+    border-color: inherit;
+}
+
+.bi-heart-fill.filled::before {
+    color: #4AD493;
+    transition: color 0.2s;
+}
