@@ -1,1 +1,1 @@
-https://andrei-mitu.github.io/carsandbids.github.io/index.html
+https://andrei-mitu.github.io/carsandbids/index.html
